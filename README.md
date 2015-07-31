@@ -7,3 +7,4 @@ SeattleStats.csv : Seattle Seahawks 2012-2014 per game statistics (includes play
 
 NewEnglandStats.csv : New England Patriots 2012-2014 per game statistics (includes playoff games)
 
+Solution Updated by Jie on January 31th, 2015
